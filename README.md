@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Hamxa 👋
+# Hello, I'm Muhammad Hamza 👋
 
 <div align="center">
   
@@ -54,7 +54,7 @@ I'm a dedicated mobile developer specializing in Flutter applications and AI cha
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamxa&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza9&show_icons=true&theme=tokyonight)
 
 ## 🎓 Expertise
 
